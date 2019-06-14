@@ -6,6 +6,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "bin": {
+    "app-launch": "./bin/app-launch.js"
+  },
   "scripts": {
     "test": "jest"
   },
