@@ -10,7 +10,7 @@ Install for global terminal use
 
 Save your most used commands with
 
-`$: app-launch jenkins="docker run -p 8080:8080 --restart=always jenkins:latest"`
+`$: app-launch jenkins="docker run -p 8080:8080 --restart=always jenkins/jenkins"`
 
 And run them later with
 
